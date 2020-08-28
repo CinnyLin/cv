@@ -143,7 +143,7 @@ h6 {
 }
 
 #header .logo a {
-  color: #16507b;
+  color: #006666;
 }
 
 #header .logo img {
@@ -179,7 +179,7 @@ h6 {
 .nav-menu a {
   display: block;
   position: relative;
-  color: #124265;
+  color: #006666;
   transition: 0.3s;
   font-size: 14px;
   font-family: "Open Sans", sans-serif;
@@ -222,7 +222,7 @@ h6 {
   font-size: 14px;
   font-weight: 500;
   text-transform: none;
-  color: #124265;
+  color: #006666;
 }
 
 .nav-menu .drop-down ul a:hover,
@@ -315,7 +315,7 @@ h6 {
 }
 
 .mobile-nav-toggle i {
-  color: #124265;
+  color: #006666;
 }
 
 .mobile-nav {
@@ -343,7 +343,7 @@ h6 {
 .mobile-nav a {
   display: block;
   position: relative;
-  color: #124265;
+  color: #006666;
   padding: 10px 20px;
   font-weight: 500;
   outline: none;
@@ -438,7 +438,7 @@ h6 {
   font-size: 56px;
   font-weight: 700;
   line-height: 72px;
-  color: #124265;
+  color: #006666;
   font-family: "Poppins", sans-serif;
 }
 
@@ -488,7 +488,7 @@ h6 {
 }
 
 #hero .icon-box .title a {
-  color: #124265;
+  color: #006666;
   transition: 0.3s;
 }
 
@@ -558,7 +558,7 @@ section {
   text-transform: uppercase;
   margin-bottom: 10px;
   padding-bottom: 0;
-  color: #124265;
+  color: #006666;
 }
 
 .section-title h3 {
@@ -566,7 +566,7 @@ section {
   font-weight: bold;
   margin-bottom: 20px;
   padding-bottom: 0;
-  color: #124265;
+  color: #006666;
 }
 
 .section-title p {
@@ -650,7 +650,7 @@ section {
   font-size: 15px;
   font-weight: 600;
   font-family: "Poppins", sans-serif;
-  color: #45505b;
+  color: #008080;
 }
 
 .skills .progress .skill .val {
@@ -674,14 +674,14 @@ section {
 --------------------------------------------------------------*/
 .resume .resume-title {
   font-size: 20px;
-  font-weight: 700;
+  font-weight: 500;
   margin-top: 20px;
-  margin-bottom: 20px;
-  color: #45505b;
+  margin-bottom: 10px;
+  color: #008080;
 }
 
 .resume .resume-item {
-  padding: 0 0 20px 20px;
+  padding: 0 0 10px 10px;
   margin-top: -2px;
   border-left: 2px solid #e17f93;
   position: relative;
@@ -734,7 +734,8 @@ section {
 # Counts
 --------------------------------------------------------------*/
 .counts {
-  padding: 60px 0;
+  padding: 20px 0;
+  background: none;
 }
 
 .counts .count-box {
@@ -747,7 +748,7 @@ section {
   line-height: 48px;
   display: block;
   font-weight: 700;
-  color: #124265;
+  color: #006666;
   margin-left: 80px;
   margin: auto;
 }
@@ -757,7 +758,7 @@ section {
   font-family: "Raleway", sans-serif;
   font-weight: 600;
   font-size: 14px;
-  color: #1e6ca6;
+  color: #008080;
 }
 
 /*--------------------------------------------------------------
@@ -770,7 +771,7 @@ section {
 .datascience-video .content h3 {
   font-weight: 700;
   font-size: 24px;
-  color: #124265;
+  color: #006666;
 }
 
 .datascience-video .content ul {
@@ -1060,7 +1061,7 @@ section {
 }
 
 .services .icon-box h4 a {
-  color: #124265;
+  color: #006666;
   transition: ease-in-out 0.3s;
 }
 
@@ -1371,7 +1372,7 @@ section {
 
 .team .member .social a {
   transition: color 0.3s;
-  color: #124265;
+  color: #006666;
   margin: 0 10px;
   padding-top: 8px;
   display: inline-block;
@@ -1394,7 +1395,7 @@ section {
   font-weight: 700;
   margin-bottom: 5px;
   font-size: 18px;
-  color: #124265;
+  color: #006666;
 }
 
 .team .member .member-info span {
@@ -1434,7 +1435,7 @@ section {
   font-size: 18px;
   text-transform: uppercase;
   font-weight: 600;
-  color: #124265;
+  color: #006666;
 }
 
 .pricing .box h4 {
@@ -1460,7 +1461,7 @@ section {
 .pricing .box ul {
   padding: 0;
   list-style: none;
-  color: #124265;
+  color: #006666;
   text-align: center;
   line-height: 20px;
   font-size: 14px;
@@ -1634,7 +1635,7 @@ section {
   font-size: 22px;
   font-weight: 600;
   margin-bottom: 5px;
-  color: #124265;
+  color: #006666;
 }
 
 .contact .info p {
@@ -1946,7 +1947,7 @@ section {
 #footer .footer-top h4 {
   font-size: 16px;
   font-weight: bold;
-  color: #124265;
+  color: #006666;
   position: relative;
   padding-bottom: 12px;
 }
