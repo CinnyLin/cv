@@ -271,8 +271,8 @@ h6 {
   }
 }
 
-/* Get Startet Button */
-.get-started-btn {
+/* Button */
+.button {
   margin-left: 25px;
   background: #e17f93;
   color: #fff;
@@ -285,13 +285,13 @@ h6 {
   display: inline-block;
 }
 
-.get-started-btn:hover {
+.button:hover {
   background: #339999;
   color: #fff;
 }
 
 @media (max-width: 768px) {
-  .get-started-btn {
+  .button {
     margin: 0 48px 0 0;
     padding: 5px 18px 6px 18px;
     border-radius: 3px;
@@ -448,7 +448,7 @@ h6 {
   font-size: 22px;
 }
 
-#hero .btn-get-started {
+#hero .button {
   font-family: "Poppins", sans-serif;
   font-weight: 500;
   font-size: 14px;
@@ -462,7 +462,7 @@ h6 {
   background: #e17f93;
 }
 
-#hero .btn-get-started:hover {
+#hero .button:hover {
   background: #339999;
 }
 
@@ -1929,6 +1929,24 @@ section {
   font-size: 14px;
   background: #f8fbfe;
   box-shadow: 0px 2px 15px rgba(18, 66, 101, 0.08);
+}
+
+#footer .button {
+  font-family: "Poppins", sans-serif;
+  font-weight: 500;
+  font-size: 14px;
+  letter-spacing: 0.5px;
+  display: inline-block;
+  padding: 14px 50px;
+  border-radius: 5px;
+  transition: 0.5s;
+  margin-top: 30px;
+  color: #fff;
+  background: #e17f93;
+}
+
+#hero .button:hover {
+  background: #339999;
 }
 
 #footer .footer-top {
