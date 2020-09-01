@@ -949,7 +949,7 @@ section {
 
 .recommendations .testimonial-item .quote-icon-left,
 .recommendations .testimonial-item .quote-icon-right {
-  color: #c9e3f5;
+  color: #80c0c0;
   font-size: 26px;
 }
 
@@ -970,7 +970,7 @@ section {
   font-style: italic;
   margin: 0 15px 15px 15px;
   padding: 20px;
-  background: #f3f9fd;
+  background: #e6f2f280;
   position: relative;
   margin-bottom: 35px;
   border-radius: 6px;
@@ -980,7 +980,7 @@ section {
   content: "";
   width: 0;
   height: 0;
-  border-top: 20px solid #f3f9fd;
+  border-top: 20px solid #e6f2f280;
   border-right: 20px solid transparent;
   border-left: 20px solid transparent;
   position: absolute;
