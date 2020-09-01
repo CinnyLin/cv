@@ -922,16 +922,16 @@ section {
 }
 
 /*--------------------------------------------------------------
-# Testimonials
+# Recommendations
 --------------------------------------------------------------*/
-.testimonials .testimonial-item {
+.recommendations .testimonial-item {
   box-sizing: content-box;
   text-align: center;
   min-height: 320px;
   padding-top: 40px;
 }
 
-.testimonials .testimonial-item h3 {
+.recommendations .testimonial-item h3 {
   font-size: 18px;
   font-weight: bold;
   margin: 10px 0 5px 0;
@@ -939,7 +939,7 @@ section {
   padding-top: 0px;
 }
 
-.testimonials .testimonial-item h4 {
+.recommendations .testimonial-item h4 {
   font-size: 14px;
   color: #999;
   margin: 0;
@@ -947,26 +947,26 @@ section {
   padding-bottom: 20px;
 }
 
-.testimonials .testimonial-item .quote-icon-left,
-.testimonials .testimonial-item .quote-icon-right {
+.recommendations .testimonial-item .quote-icon-left,
+.recommendations .testimonial-item .quote-icon-right {
   color: #c9e3f5;
   font-size: 26px;
 }
 
-.testimonials .testimonial-item .quote-icon-left {
+.recommendations .testimonial-item .quote-icon-left {
   display: inline-block;
   left: -5px;
   position: relative;
 }
 
-.testimonials .testimonial-item .quote-icon-right {
+.recommendations .testimonial-item .quote-icon-right {
   display: inline-block;
   right: -5px;
   position: relative;
   top: 10px;
 }
 
-.testimonials .testimonial-item p {
+.recommendations .testimonial-item p {
   font-style: italic;
   margin: 0 15px 15px 15px;
   padding: 20px;
@@ -976,7 +976,7 @@ section {
   border-radius: 6px;
 }
 
-.testimonials .testimonial-item p::after {
+.recommendations .testimonial-item p::after {
   content: "";
   width: 0;
   height: 0;
@@ -988,13 +988,13 @@ section {
   left: calc(50% - 20px);
 }
 
-.testimonials .owl-nav,
-.testimonials .owl-dots {
+.recommendations .owl-nav,
+.recommendations .owl-dots {
   margin-top: 5px;
   text-align: center;
 }
 
-.testimonials .owl-dot {
+.recommendations .owl-dot {
   display: inline-block;
   margin: 0 5px;
   width: 12px;
@@ -1003,12 +1003,12 @@ section {
   background-color: #ddd !important;
 }
 
-.testimonials .owl-dot.active {
+.recommendations .owl-dot.active {
   background-color: #e17f93 !important;
 }
 
 @media (max-width: 767px) {
-  .testimonials {
+  .recommendations {
     margin: 30px 10px;
   }
 }
