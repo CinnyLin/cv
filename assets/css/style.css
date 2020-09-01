@@ -143,7 +143,7 @@ h6 {
 }
 
 #header .logo a {
-  color: #006666;
+  color: #45505b;
 }
 
 #header .logo img {
@@ -179,7 +179,7 @@ h6 {
 .nav-menu a {
   display: block;
   position: relative;
-  color: #006666;
+  color: #45505b;
   transition: 0.3s;
   font-size: 14px;
   font-family: "Open Sans", sans-serif;
@@ -222,7 +222,7 @@ h6 {
   font-size: 14px;
   font-weight: 500;
   text-transform: none;
-  color: #006666;
+  color: #45505b;
 }
 
 .nav-menu .drop-down ul a:hover,
@@ -315,7 +315,7 @@ h6 {
 }
 
 .mobile-nav-toggle i {
-  color: #006666;
+  color: #45505b;
 }
 
 .mobile-nav {
@@ -343,7 +343,7 @@ h6 {
 .mobile-nav a {
   display: block;
   position: relative;
-  color: #006666;
+  color: #45505b;
   padding: 10px 20px;
   font-weight: 500;
   outline: none;
@@ -438,7 +438,7 @@ h6 {
   font-size: 56px;
   font-weight: 700;
   line-height: 72px;
-  color: #006666;
+  color: #45505b;
   font-family: "Poppins", sans-serif;
 }
 
@@ -488,7 +488,7 @@ h6 {
 }
 
 #hero .icon-box .title a {
-  color: #006666;
+  color: #45505b;
   transition: 0.3s;
 }
 
@@ -558,7 +558,7 @@ section {
   text-transform: uppercase;
   margin-bottom: 10px;
   padding-bottom: 0;
-  color: #006666;
+  color: #45505b;
 }
 
 .section-title h3 {
@@ -566,7 +566,7 @@ section {
   font-weight: bold;
   margin-bottom: 20px;
   padding-bottom: 0;
-  color: #006666;
+  color: #45505b;
 }
 
 .section-title p {
@@ -650,7 +650,7 @@ section {
   font-size: 15px;
   font-weight: 600;
   font-family: "Poppins", sans-serif;
-  color: #008080;
+  color: #45505b;
 }
 
 .skills .progress .skill .val {
@@ -677,7 +677,7 @@ section {
   font-weight: 500;
   margin-top: 20px;
   margin-bottom: 10px;
-  color: #008080;
+  color: #45505b;
 }
 
 .resume .resume-item {
@@ -748,7 +748,7 @@ section {
   line-height: 48px;
   display: block;
   font-weight: 700;
-  color: #006666;
+  color: #45505b;
   margin-left: 80px;
   margin: auto;
 }
@@ -771,7 +771,7 @@ section {
 .datascience-video .content h3 {
   font-weight: 700;
   font-size: 24px;
-  color: #006666;
+  color: #45505b;
 }
 
 .datascience-video .content ul {
@@ -1061,7 +1061,7 @@ section {
 }
 
 .services .icon-box h4 a {
-  color: #006666;
+  color: #45505b;
   transition: ease-in-out 0.3s;
 }
 
@@ -1372,7 +1372,7 @@ section {
 
 .team .member .social a {
   transition: color 0.3s;
-  color: #006666;
+  color: #45505b;
   margin: 0 10px;
   padding-top: 8px;
   display: inline-block;
@@ -1395,7 +1395,7 @@ section {
   font-weight: 700;
   margin-bottom: 5px;
   font-size: 18px;
-  color: #006666;
+  color: #45505b;
 }
 
 .team .member .member-info span {
@@ -1435,7 +1435,7 @@ section {
   font-size: 18px;
   text-transform: uppercase;
   font-weight: 600;
-  color: #006666;
+  color: #45505b;
 }
 
 .pricing .box h4 {
@@ -1461,7 +1461,7 @@ section {
 .pricing .box ul {
   padding: 0;
   list-style: none;
-  color: #006666;
+  color: #45505b;
   text-align: center;
   line-height: 20px;
   font-size: 14px;
@@ -1628,7 +1628,7 @@ section {
   font-size: 22px;
   font-weight: 600;
   margin-bottom: 5px;
-  color: #006666;
+  color: #45505b;
 }
 
 .contact .info {
@@ -1977,7 +1977,7 @@ section {
 #footer .footer-top h4 {
   font-size: 16px;
   font-weight: bold;
-  color: #006666;
+  color: #45505b;
   position: relative;
   padding-bottom: 12px;
 }
@@ -2072,7 +2072,7 @@ section {
 #footer .copyright {
   font-weight: 600;
   font-size: 16px;
-  color: #006666;
+  color: #45505b;
   padding-top: 50px;
   padding-bottom: 50px;
 }
