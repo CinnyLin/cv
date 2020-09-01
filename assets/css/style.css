@@ -540,7 +540,7 @@ h6 {
 # Sections General
 --------------------------------------------------------------*/
 section {
-  padding-top: 30px;
+  padding-top: 50px;
 }
 
 .section-bg {
@@ -1613,7 +1613,7 @@ section {
 --------------------------------------------------------------*/
 .contact .icon {
   margin-bottom: 10px;
-  padding-top: 10px;
+  padding-top: 30px;
   display: inline-block;
   font-size: 30px;
   line-height: 1;
