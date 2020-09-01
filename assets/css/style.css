@@ -928,12 +928,7 @@ section {
   box-sizing: content-box;
   text-align: center;
   min-height: 320px;
-}
-
-.testimonials .testimonial-item .testimonial-img {
-  width: 90px;
-  border-radius: 50%;
-  margin: 0 auto;
+  padding-top: 40px;
 }
 
 .testimonials .testimonial-item h3 {
@@ -941,12 +936,15 @@ section {
   font-weight: bold;
   margin: 10px 0 5px 0;
   color: #111;
+  padding-top: 0px;
 }
 
 .testimonials .testimonial-item h4 {
   font-size: 14px;
   color: #999;
   margin: 0;
+  padding-top: 5px;
+  padding-bottom: 20px;
 }
 
 .testimonials .testimonial-item .quote-icon-left,
